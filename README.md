@@ -10,8 +10,6 @@ Numpy – Numpy library is used to perform large computations in a easier way.
 
 Matplotlib – Matplotlib library is used to visualize the predictions and models.
 
-YahooFinance - YahooFinance library is used to deliver daily market coverage.
-
 # Code Editor :
 
 Visual Studio Code - Visual Studio Code helps you write and work on code for building websites and applications.
