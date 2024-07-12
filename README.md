@@ -10,6 +10,8 @@ Numpy – Numpy library is used to perform large computations in a easier way.
 
 Matplotlib – Matplotlib library is used to visualize the predictions and models.
 
+Sklearn – Scikit-learn also known as Sklearn library is used to perform tasks from data preprocessing to model development and evaluation.
+
 # Code Editor :
 
 Visual Studio Code - Visual Studio Code helps you write and work on code for building websites and applications.
